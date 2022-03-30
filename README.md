@@ -1,25 +1,25 @@
-3proxy install script for Debian / Ubuntu VPS
+Установочный скрипт 3proxy для VPS на Debian / Ubuntu
 ======================================================
 
-A simple script to install 3proxy on Ubuntu/Debian
+Простой скрипт 3proxy на Ubuntu/Debian
 
 **MANUAL :**
 
-Install :
+Установка :
 
-    wget --no-check-certificate https://raw.github.com/SnoyIatk/3proxy/master/3proxyinstall.sh
+    wget --no-check-certificate https://raw.githubusercontent.com/DarkFort/3proxy/master/3proxyinstall.sh
     chmod +x 3proxyinstall.sh
     ./3proxyinstall.sh
 
-Change authentication!!! 
+Настройте авторизацию!!! 
 
     vim /etc/3proxy/.proxyauth
 	
-Sample .proxyauth
+Например .proxyauth
 
     johndoe:CL:johndoepassword123
 
-Change HTTP/SOCKS port, default is 9999 (HTTP) and 8088 (SOCKS)
+Настройте порт HTTP/SOCKS, по умолчанию порт 9999 (HTTP) и 8088 (SOCKS)
 
     vim /etc/3proxy/3proxy.cfg
     
