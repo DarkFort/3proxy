@@ -13,7 +13,7 @@
 
 Настройте авторизацию!!! 
 
-    vim /etc/3proxy/.proxyauth
+    nano /etc/3proxy/.proxyauth
 	
 Например .proxyauth
 
@@ -21,7 +21,7 @@
 
 Настройте порт HTTP/SOCKS, по умолчанию порт 9999 (HTTP) и 8088 (SOCKS)
 
-    vim /etc/3proxy/3proxy.cfg
+    nano /etc/3proxy/3proxy.cfg
     
 
 Start service (or reboot as it's automatically start)
