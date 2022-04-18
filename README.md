@@ -38,7 +38,7 @@
 
 - Debian 11 64bit
 
-**Script will run on :**
+**Скрипт может быть запущен на :**
 - Debian 6 32bits
 - Debian 7 32bits
 - Ubuntu 12.10 32bits
