@@ -40,7 +40,7 @@
 
 **Скрипт может быть запущен на :**
 - Debian 6 32bits
-- Debian 7 32bits
+- Debian 7 32bits и выше
 - Ubuntu 12.10 32bits
 - Ubuntu 12.04 32bits
-- Ubuntu 14.04 and later
+- Ubuntu 14.04 и выше
