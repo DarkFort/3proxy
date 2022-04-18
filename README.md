@@ -24,19 +24,19 @@
     nano /etc/3proxy/3proxy.cfg
     
 
-Start service (or reboot as it's automatically start)
+Запуск сервиса (или перезагрузка, так как он запускается автоматически)
 
     service 3proxy start
 	
-Uninstall:
+Удаление:
 
-	wget --no-check-certificate https://raw.github.com/SnoyIatk/3proxy/master/3proxyuninstall.sh
+	wget --no-check-certificate https://raw.github.com/DarkFort/3proxy/master/3proxyuninstall.sh
 	chmod +x 3proxyuninstall.sh
 	./3proxyuninstall.sh
 
-**Script tested on 04.06.2017 on EC2 AMI :**
+**Скрипт протестирован 18.05.2021 :**
 
-- Ubuntu 16.04 64bit
+- Debian 11 64bit
 
 **Script will run on :**
 - Debian 6 32bits
