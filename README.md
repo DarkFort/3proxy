@@ -1,4 +1,4 @@
-Установочный скрипт 3proxy для VPS на Debian / Ubuntu
+Установочный скрипт 3proxy для VPS / VDS на Debian / Ubuntu
 ======================================================
 
 Простой скрипт 3proxy на Ubuntu/Debian
