@@ -26,8 +26,6 @@
 
 Start service (or reboot as it's automatically start)
 
-    /etc/init.d/3proxy start
-Or
     service 3proxy start
 	
 Uninstall:
