@@ -8,3 +8,4 @@ rm /etc/rc3.d/*proxy
 rm /etc/rc4.d/*proxy
 rm /etc/rc5.d/*proxy
 rm /etc/init.d/3proxy
+systemctl daemon-reload
